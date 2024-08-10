@@ -32,9 +32,9 @@
 
 - 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
 
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
+- 📫 Feel free to reach me out **niffzy@gmail.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp095381540874) my username!
+- 🏠 Don't hesitate to drop me a **👋** on Discord –  [niffzy](https://discordapp095381540874) my username!
 <!--Intro end-->
 
 <!--- stats & Trophy (start) -->
