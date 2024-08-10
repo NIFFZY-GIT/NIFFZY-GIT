@@ -10,7 +10,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="[https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg](https://image.myanimelist.net/ui/5zdzFcBcrbnYLs3CUyho0JRc0rlEmhnXUxXjZXgXzniP_L6NoJtNmKhDlm_vnN9nZnhutcBfqNJmejYHLO-kPri9wacNIau4USVpcVY-nW_nhfwjzrTfkLXQoIlyCXhx)"
+  <img  src="(https://image.myanimelist.net/ui/5zdzFcBcrbnYLs3CUyho0JRc0rlEmhnXUxXjZXgXzniP_L6NoJtNmKhDlm_vnN9nZnhutcBfqNJmejYHLO-kPri9wacNIau4USVpcVY-nW_nhfwjzrTfkLXQoIlyCXhx)"
        alt="snake" /></a>
 </div>
 
