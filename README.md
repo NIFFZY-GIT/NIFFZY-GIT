@@ -109,8 +109,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=niffzy&label=Profile%20Views&color=1&icon=1&pretty=true" />
-</a>
+
 
 Last Edited on: 08/10/2024
