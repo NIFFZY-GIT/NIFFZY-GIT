@@ -10,7 +10,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="(https://image.myanimelist.net/ui/5zdzFcBcrbnYLs3CUyho0JRc0rlEmhnXUxXjZXgXzniP_L6NoJtNmKhDlm_vnN9nZnhutcBfqNJmejYHLO-kPri9wacNIau4USVpcVY-nW_nhfwjzrTfkLXQoIlyCXhx)"
+  <img  src="https://64.media.tumblr.com/93ad740c5d58c43d49f50b7a978b4f91/tumblr_oqxgewq2wx1qehrvso1_540.gif"
        alt="snake" /></a>
 </div>
 
