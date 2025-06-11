@@ -1,16 +1,60 @@
-<!-- horizontal divider (gradient) --> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!-- h1 without bottom border --> <div id="user-content-toc"> <ul align="center"> <summary><h1 style="display: inline-block">Hi 👋, I'm Nipuna</h1></summary> </ul> </div> <!-- Snake animation --> <div align="center"> <img src="https://64.media.tumblr.com/93ad740c5d58c43d49f50b7a978b4f91/tumblr_oqxgewq2wx1qehrvso1_540.gif" alt="snake" /> </div> <!-- h2 without bottom border --> <div id="user-content-toc"> <ul align="center"> <summary><h2 style="display: inline-block">Confusion is Part of Programming</h2></summary> </ul> </div> <!-- Intro start -->
-🔭 I’m currently working on AWS, React, React Native, Node.js, and MongoDB
+<!-- Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</p>
 
-🌱 I’m learning how to combine multiple Hyper Beast Stacks for scalable applications
+<h1 align="center">Hi 👋, I'm Nipuna</h1>
+<h3 align="center">Crafting scalable and intelligent applications with clean UI & powerful backend.</h3>
 
-☁️ I have a deep interest in cloud computing, currently focusing on AWS
+---
 
-📝 I write tech blogs on Hashnode
+### 🚀 About Me
 
-💬 Ask me about AWS, React, React Native, Node.js, MongoDB
+🔧 I’m currently working with **Flutter, Next.js (TypeScript), Node.js, and Python**  
+📱 I build **mobile & web apps** with optimized performance and sleek UI  
+☁️ Passionate about **Cloud Technologies**, especially **AWS & Firebase**  
+📖 Always learning — currently focused on **API architecture** and **ML integration**
 
-📫 Reach me at k.nipuna.dasun@gmail.com
+---
 
-🏠 Feel free to connect with me on Discord – niffzy
+### 🛠️ Tech Stack
 
-<!-- Stats & Trophy start --> <p align="center"> <table align="center"> <tr border="none"> <td width="50%" align="center"> <img title="🔥 GitHub Streak" alt="Nipuna's GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=niffzy&theme=dark&hide_border=false" /> </td> <td width="50%" align="center"> <!-- Optional second stat card, like top languages or GitHub stats --> </td> </tr> </table> <!-- Trophy --> <div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img width="84%" src="https://github-profile-trophy.vercel.app/?username=niffzy&theme=radical&row=1&column=7&margin-w=5&margin-h=15&no-bg=true" alt="GitHub Trophy" /> </a> </div> </p> <!-- h2 without bottom border --> <div id="user-content-toc"> <ul align="center"> <summary><h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2></summary> </ul> </div> <!-- Tech Stack Icons --> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" /> </a> </p> <!-- Connect with me --> <div id="user-content-toc"> <ul align="center"> <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary> </ul> </div> <!-- Social Media Icons --> <p align="center"> <a href="https://linkedin.com/in/yourlinkedin" target="_blank"> <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" /> </a> <a href="https://twitter.com/yourtwitter" target="_blank"> <img src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="Twitter" height="50" width="50" /> </a> <a href="https://instagram.com/yourinstagram" target="_blank"> <img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="Instagram" height="50" width="50" /> </a> <a href="https://niffzy.hashnode.dev" target="_blank"> <img src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="Hashnode" height="50" width="50" /> </a> <a href="https://discordapp.com/users/niffzy" target="_blank"> <img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="Discord" height="50" width="50" /> </a> </p> <!-- Profile Views --> <div align="center"> <a href="https://visitcount.itsvg.in"> <img src="https://visitcount.itsvg.in/api?id=niffzy&label=Profile%20Views&color=1&icon=1&pretty=true" alt="Profile Visit Counter" /> </a> </div> <!-- horizontal divider (gradient) --> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,ts,react,nodejs,py,fastapi,express,mongodb,mysql,postgres,aws,firebase,figma,github,git,linux,vscode&perline=9" />
+  </a>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=niffzy&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=niffzy&theme=radical&row=1&column=7&no-bg=true&margin-w=10&margin-h=15" alt="GitHub Trophy" />
+</p>
+
+---
+
+### 🗣️ Let's Connect
+
+<p align="center">
+  <a href="mailto:niffzy@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://niffzy.hashnode.dev"><img src="https://img.shields.io/badge/hashnode-%231872FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+  <a href="https://discordapp.com/users/niffzy"><img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
+</p>
+
+---
+
+### 📊 Profile Views
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=niffzy&label=Profile%20Views&color=6&icon=5&pretty=true" />
+</p>
+
+<!-- End Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</p>
