@@ -9,7 +9,7 @@
 
 💬 Ask me about AWS, React, React Native, Node.js, MongoDB
 
-📫 Reach me at niffzy@gmail.com
+📫 Reach me at k.nipuna.dasun@gmail.com
 
 🏠 Feel free to connect with me on Discord – niffzy
 
